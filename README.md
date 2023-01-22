@@ -20,7 +20,7 @@ Go to [the following GitHub site](https://github.com/me-no-dev) and download the
 
 Go to the [following GitHub site](https://github.com/ayushsharma82/AsyncElegantOTA) and download the following library:
 
-1. AsyncElegantOTA
+1. AsyncElegantOTA (same library for ESP32 & ESP8266)  
 
 They will download as ZIP files with the suffix _-master_. Ignore all that! Just remember where you downloaded them to!   
 Go to the Arduino IDE and click Sketch-> Include Library -> Add.ZIP library and click the downloaded library ZIP files.  
