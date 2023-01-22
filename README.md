@@ -2,7 +2,7 @@
 How you can interface with your ESP32 to get information or carry out actions. Plus uploading code Over The Air in one easy step.
 
 thumbnail goes here
-### Video link: https://youtu.be/pgqB1nhK-bU  
+### Video link: https://youtu.be/xxx  
 <br>  
 
 [![PCBWayPrototype the easy way](https://user-images.githubusercontent.com/20911308/185422574-52a4e7db-c680-4dd2-87be-1f1dd1db6a65.gif "PCBWay - up to 20% Discount on 4 & 6-layer PCBs")](https://pcbway.com/)  
@@ -34,4 +34,26 @@ Ensure your _platformio.ini_ file includes the ```lib_deps``` like this:
 ## 3. All code for both environments is in this GitHub!
 
 Just click big green "CODE" button above and choose the ZIP file download to your PC. Then unzip and you have _everything_ you might need!  
+
+## 4. ESP32 Tools settings (in the dropdown Tools menu in the Arduino IDE)  
+Click [here for essential reading](https://espressif-docs.readthedocs-hosted.com/projects/arduino-esp32/en/latest/guides/tools_menu.html)  
+
+
+## More info  
+► List of all my videos
+(Special thanks to Michael Kurt Vogel for compiling this)  
+http://bit.ly/YouTubeVideoList-RalphBacon
+
+► If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite (and other μControllers) journey
+
+My channel, GitHub and blog are here:  
+\------------------------------------------------------------------  
+• https://www.youtube.com/RalphBacon  
+• https://ralphbacon.blog  
+• https://github.com/RalphBacon  
+• https://buymeacoffee.com/ralphbacon  
+\------------------------------------------------------------------
+
+My ABOUT page with email address: https://www.youtube.com/c/RalphBacon/about
+
 
