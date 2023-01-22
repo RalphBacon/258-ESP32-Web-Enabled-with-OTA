@@ -33,3 +33,5 @@ Ensure your _platformio.ini_ file includes the ```lib_deps``` like this:
 
 ## 3. All code for both environments is in this GitHub!
 
+Just click big green "CODE" button above and choose the ZIP file download to your PC. Then unzip and you have _everything_ you might need!  
+
