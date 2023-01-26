@@ -1,5 +1,5 @@
 # Video #258: ESP32 Web Enabled - with OTA
-How you can interface with your ESP32 to get information or carry out actions. Plus uploading code Over The Air in one easy step.
+How you can interface with your ESP32 to get information or carry out actions. Plus uploading code Over The Air in one easy step.  
 ![Thumbnail (Phone)](https://user-images.githubusercontent.com/20911308/214850271-87a49f5d-9d8a-45a7-8c0f-03ad3af69773.png)  
 ### Video link: https://youtu.be/6yiuImbqKYY  
 <br>  
